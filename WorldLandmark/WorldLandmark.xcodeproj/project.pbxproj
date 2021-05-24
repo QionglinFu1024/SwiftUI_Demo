@@ -11,7 +11,6 @@
 		09C09CF1265B587100C2C928 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C09CF0265B587100C2C928 /* ContentView.swift */; };
 		09C09CF3265B587200C2C928 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09C09CF2265B587200C2C928 /* Assets.xcassets */; };
 		09C09CF6265B587200C2C928 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09C09CF5265B587200C2C928 /* Preview Assets.xcassets */; };
-		09C09CFE265B589E00C2C928 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 09C09CFD265B589D00C2C928 /* .gitignore */; };
 		09C09D00265B784200C2C928 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C09CFF265B784200C2C928 /* Landmark.swift */; };
 		09C09D4F265B9EB100C2C928 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C09D4E265B9EB100C2C928 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
@@ -23,7 +22,6 @@
 		09C09CF2265B587200C2C928 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09C09CF5265B587200C2C928 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		09C09CF7265B587200C2C928 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		09C09CFD265B589D00C2C928 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		09C09CFF265B784200C2C928 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		09C09D4E265B9EB100C2C928 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -42,7 +40,6 @@
 		09C09CE2265B587100C2C928 = {
 			isa = PBXGroup;
 			children = (
-				09C09CFD265B589D00C2C928 /* .gitignore */,
 				09C09CED265B587100C2C928 /* WorldLandmark */,
 				09C09CEC265B587100C2C928 /* Products */,
 			);
@@ -136,7 +133,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				09C09CF6265B587200C2C928 /* Preview Assets.xcassets in Resources */,
-				09C09CFE265B589E00C2C928 /* .gitignore in Resources */,
 				09C09CF3265B587200C2C928 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
